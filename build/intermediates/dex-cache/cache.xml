@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="O:\Documentos\CursoAndroid\Curso3\170817_Mascotas_c3s4\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="O:\Documentos\CursoAndroid\Curso3\170817_Mascotas_c3s4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_92f29b697aa4dea7534a75c75f0df77342ac5cca\classes.dex" />
+    </item>
+
+</items>
